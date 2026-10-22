@@ -16,7 +16,7 @@ My work focuses on turning complex workflows and fragmented data into clear, rel
 
 - **InmoData** — Turns dispersed property listings into comparable evidence, market context, and professional reports for better-informed pricing conversations.
 
-- **PiplSoft** — Modernizes legacy HR data while preserving effective-dated history, provenance, permissions, and operational traceability.
+- **Pipl** — Modernizes legacy HR data while preserving effective-dated history, provenance, permissions, and operational traceability.
 
 - **Traced** — Converts geotagged photos into a private travel map and suggests nearby places using a self-hosted OpenStreetMap catalog.
 
