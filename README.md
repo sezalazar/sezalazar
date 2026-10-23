@@ -1,12 +1,12 @@
 # Sebastián Zalazar
 
-**Senior Product Engineer working across full-stack systems and applied AI.**
+**Senior AI Product Engineer building reliable products across full-stack systems, data, and AI.**
 
 Based in Buenos Aires, Argentina.
 
 I bring years of software engineering experience across backend development, frontend applications, data modeling, integrations, infrastructure, and business systems.
 
-Today, I extend that foundation with applied AI: agentic development workflows, domain-scoped assistants, and local or hosted LLM integrations where they provide real product value. AI accelerates exploration and execution; product judgment, architecture, security, and final validation remain core engineering responsibilities.
+Today, I focus that foundation on AI product engineering: agentic systems, domain-scoped assistants, local and hosted LLM integrations, and human-in-the-loop products.
 
 My work focuses on turning complex workflows and fragmented data into clear, reliable products across SaaS, web, mobile, and desktop.
 
@@ -30,7 +30,7 @@ Most current product work is private. Code, demos, and infrastructure are shared
 
 Laravel · Vue · PostgreSQL · Docker
 
-## Applied AI
+## AI engineering
 
 AI agents · Agentic workflows · Local and hosted LLMs · OpenAI-compatible APIs · Human-in-the-loop systems
 
