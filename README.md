@@ -16,52 +16,41 @@ I build reliable AI products end to end across backend, frontend, data, and prod
   <tr>
     <td width="50%" valign="top">
       <img src="./assets/projects/traced.webp" width="100%" alt="Traced private travel map presented across two mobile screens." />
-      <br /><br />
-      <strong>Traced</strong><br />
-      Turns geotagged photos into a private travel map and suggests nearby places from a self-hosted OpenStreetMap catalog.<br /><br />
-      <sub>EXPO · REACT NATIVE · TYPESCRIPT · POSTGIS · MINIO</sub>
+      <br /><strong>Traced</strong>
     </td>
     <td width="50%" valign="top">
       <img src="./assets/projects/workforce-studio.webp" width="100%" alt="Workforce Restructuring Studio with a radial organization model and financial scenario summary." />
-      <br /><br />
-      <strong>Workforce Restructuring Studio</strong><br />
-      Models organizational change through reversible scenarios, radial structures, financial impact, and a bounded local assistant.<br /><br />
-      <sub>REACT · TYPESCRIPT · D3.JS · FASTAPI · LOCAL LLM</sub>
+      <br /><strong>Workforce Restructuring Studio</strong>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <img src="./assets/projects/inmodata.webp" width="100%" alt="InmoData value map, comparable listings, and market report." />
-      <br /><br />
-      <strong>InmoData</strong><br />
-      Transforms published property listings into comparables, regional context, and client-ready reports for better pricing conversations.<br /><br />
-      <sub>LARAVEL · LIVEWIRE · POSTGRESQL · POSTGIS · PYTHON</sub>
+      <br /><strong>InmoData</strong>
     </td>
     <td width="50%" valign="top">
       <img src="./assets/projects/pipl.webp" width="100%" alt="Pipl human resources operations dashboard with aggregated workforce information." />
-      <br /><br />
-      <strong>Pipl</strong><br />
-      Modernizes effective-dated HR data while preserving history, source provenance, permissions, and operational traceability.<br /><br />
-      <sub>LARAVEL · REACT · TYPESCRIPT · POSTGRESQL · DOCKER</sub>
+      <br /><strong>Pipl</strong>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <img src="./assets/projects/drive-for-ubuntu.webp" width="100%" alt="Drive for Ubuntu desktop synchronization interface with visible status and conflict handling." />
-      <br /><br />
-      <strong>Drive for Ubuntu</strong><br />
-      Provides desktop file synchronization with visible conflicts, resilient transfers, and clear recovery from interruptions.<br /><br />
-      <sub>UBUNTU DESKTOP · RESILIENT SYNC · LOCAL-FIRST UX</sub>
+      <br /><strong>Drive for Ubuntu</strong>
     </td>
     <td width="50%" valign="top">
       <img src="./assets/projects/federal-events-catalog.webp" width="100%" alt="Federal Events Catalog with a regional map, normalized event sources, and an operational dashboard." />
-      <br /><br />
-      <strong>Federal Events Catalog</strong><br />
-      Normalizes tourism and cultural events from many public sources into a reusable API and operational dashboard.<br /><br />
-      <sub>LARAVEL · VUE · TYPESCRIPT · POSTGRESQL · POSTGIS</sub>
+      <br /><strong>Federal Events Catalog</strong>
     </td>
   </tr>
 </table>
+
+- **Traced** — Turns geotagged photos into a private travel map and suggests nearby places from a self-hosted OpenStreetMap catalog.
+- **Workforce Restructuring Studio** — Models organizational change through reversible scenarios, radial structures, financial impact, and a bounded local assistant.
+- **InmoData** — Transforms published property listings into comparables, regional context, and client-ready reports for better pricing conversations.
+- **Pipl** — Modernizes effective-dated HR data while preserving history, source provenance, permissions, and operational traceability.
+- **Drive for Ubuntu** — Provides desktop file synchronization with visible conflicts, resilient transfers, and clear recovery from interruptions.
+- **Federal Events Catalog** — Normalizes tourism and cultural events from many public sources into a reusable API and operational dashboard.
 
 <sub>Product visuals use synthetic or aggregated data. Source code, infrastructure, credentials, and private operational data are not published.</sub>
 
