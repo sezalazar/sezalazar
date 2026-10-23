@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="380" viewBox="0 0 1280 380" role="img" aria-labelledby="title description">
+  <title id="title">Sebastián Zalazar — Senior AI Product Engineer</title>
+  <desc id="description">A dark editorial banner connecting product, systems, data, and artificial intelligence.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#111713" />
+      <stop offset="0.58" stop-color="#18231d" />
+      <stop offset="1" stop-color="#0d1210" />
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#c8ff62" stop-opacity="0.26" />
+      <stop offset="1" stop-color="#c8ff62" stop-opacity="0" />
+    </radialGradient>
+    <linearGradient id="accentLine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#c8ff62" />
+      <stop offset="1" stop-color="#63d6ae" />
+    </linearGradient>
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M 44 0 L 0 0 0 44" fill="none" stroke="#eef2ec" stroke-opacity="0.045" />
+    </pattern>
+    <filter id="softGlow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="7" />
+    </filter>
+  </defs>
+
+  <rect width="1280" height="380" rx="28" fill="url(#background)" />
+  <rect width="1280" height="380" rx="28" fill="url(#grid)" />
+  <circle cx="1085" cy="72" r="270" fill="url(#glow)" />
+  <path d="M 0 338 C 245 296, 420 378, 690 326 S 1060 270, 1280 314" fill="none" stroke="#c8ff62" stroke-opacity="0.08" stroke-width="2" />
+
+  <g transform="translate(72 58)">
+    <rect width="172" height="28" rx="14" fill="#c8ff62" />
+    <text x="86" y="19" text-anchor="middle" fill="#17221c" font-family="Arial" font-size="12" font-weight="700" letter-spacing="1.8">SEBASTIÁN ZALAZAR</text>
+
+    <text x="0" y="102" fill="#f5f7f3" font-family="Arial" font-size="52" font-weight="700" letter-spacing="-1">Senior AI</text>
+    <text x="0" y="158" fill="#f5f7f3" font-family="Arial" font-size="52" font-weight="700" letter-spacing="-1">Product Engineer</text>
+    <rect x="0" y="184" width="70" height="4" rx="2" fill="url(#accentLine)" />
+    <text x="0" y="224" fill="#b7c0b9" font-family="Arial" font-size="20" font-weight="400">Reliable products across AI, full-stack systems, and data.</text>
+
+    <g transform="translate(0 250)" font-family="Arial" font-size="13" font-weight="700">
+      <rect width="102" height="34" rx="17" fill="#f5f7f3" fill-opacity="0.075" stroke="#f5f7f3" stroke-opacity="0.12" />
+      <circle cx="18" cy="17" r="4" fill="#c8ff62" />
+      <text x="31" y="21" fill="#e8ece7">AI agents</text>
+
+      <g transform="translate(114 0)">
+        <rect width="150" height="34" rx="17" fill="#f5f7f3" fill-opacity="0.075" stroke="#f5f7f3" stroke-opacity="0.12" />
+        <circle cx="18" cy="17" r="4" fill="#79ddb8" />
+        <text x="31" y="21" fill="#e8ece7">Full-stack systems</text>
+      </g>
+
+      <g transform="translate(276 0)">
+        <rect width="172" height="34" rx="17" fill="#f5f7f3" fill-opacity="0.075" stroke="#f5f7f3" stroke-opacity="0.12" />
+        <circle cx="18" cy="17" r="4" fill="#a7b8ff" />
+        <text x="31" y="21" fill="#e8ece7">Data-intensive products</text>
+      </g>
+    </g>
+  </g>
+
+  <g transform="translate(820 42)">
+    <g stroke="#c8ff62" stroke-opacity="0.28" stroke-width="1.5">
+      <path d="M 82 86 L 196 46 L 300 94 L 340 202 L 224 272 L 104 232 Z" fill="none" />
+      <path d="M 82 86 L 224 272 M 196 46 L 104 232 M 300 94 L 104 232 M 340 202 L 82 86" fill="none" stroke-opacity="0.14" />
+    </g>
+
+    <g fill="#c8ff62" opacity="0.18" filter="url(#softGlow)">
+      <circle cx="196" cy="46" r="17" />
+      <circle cx="340" cy="202" r="18" />
+      <circle cx="104" cy="232" r="16" />
+    </g>
+
+    <g font-family="Arial" text-anchor="middle">
+      <g transform="translate(82 86)">
+        <circle r="34" fill="#1e2b24" stroke="#77d9b5" stroke-width="1.5" />
+        <circle r="5" fill="#77d9b5" />
+        <text y="53" fill="#96a39a" font-size="11" letter-spacing="1.4">PRODUCT</text>
+      </g>
+      <g transform="translate(196 46)">
+        <circle r="28" fill="#1e2b24" stroke="#c8ff62" stroke-width="1.5" />
+        <path d="M -9 2 L -2 9 L 11 -8" fill="none" stroke="#c8ff62" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+        <text y="47" fill="#96a39a" font-size="11" letter-spacing="1.4">QUALITY</text>
+      </g>
+      <g transform="translate(300 94)">
+        <circle r="40" fill="#1e2b24" stroke="#a7b8ff" stroke-width="1.5" />
+        <path d="M -13 9 V -10 M 0 9 V -2 M 13 9 V -17" stroke="#a7b8ff" stroke-width="4" stroke-linecap="round" />
+        <text y="59" fill="#96a39a" font-size="11" letter-spacing="1.4">DATA</text>
+      </g>
+      <g transform="translate(340 202)">
+        <circle r="38" fill="#1e2b24" stroke="#c8ff62" stroke-width="1.5" />
+        <path d="M -12 0 H 12 M 0 -12 V 12" stroke="#c8ff62" stroke-width="3" stroke-linecap="round" />
+        <text y="57" fill="#96a39a" font-size="11" letter-spacing="1.4">AI</text>
+      </g>
+      <g transform="translate(224 272)">
+        <circle r="34" fill="#1e2b24" stroke="#77d9b5" stroke-width="1.5" />
+        <rect x="-12" y="-10" width="24" height="20" rx="4" fill="none" stroke="#77d9b5" stroke-width="2" />
+        <text y="53" fill="#96a39a" font-size="11" letter-spacing="1.4">SYSTEMS</text>
+      </g>
+      <g transform="translate(104 232)">
+        <circle r="31" fill="#1e2b24" stroke="#a7b8ff" stroke-width="1.5" />
+        <path d="M -10 8 L 0 -10 L 10 8 Z" fill="none" stroke="#a7b8ff" stroke-width="2" />
+        <text y="50" fill="#96a39a" font-size="11" letter-spacing="1.4">DESIGN</text>
+      </g>
+    </g>
+  </g>
+
+  <rect x="1" y="1" width="1278" height="378" rx="27" fill="none" stroke="#eef2ec" stroke-opacity="0.1" stroke-width="2" />
+</svg>
